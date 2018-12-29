@@ -1,0 +1,4 @@
+todo:
+take care of name changes by modifying the sheet
+clean data somehow b/c this: https://osu.ppy.sh/community/matches/45442499
+make it one stage functionality 
