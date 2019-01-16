@@ -1,8 +1,6 @@
 # osu-Tournament-Stats
-
-This is a program to compile and publish statistics and leaderboards from tournaments played in the online rhythm game [osu!](https://osu.ppy.sh/home). 
+This is a program to compile and publish statistics and leaderboards from tournaments played in the online rhythm game [osu!](https://osu.ppy.sh/home). <br/>
 The goal is to give additional insight and data for tournament hosts and an additional layer of competition for players. 
-
 The project is nearing completion; see Todo section. 
 
 ### Requirements
@@ -17,7 +15,7 @@ The project is nearing completion; see Todo section.
 ...
 
 ### Example of Output
-After running the program for [this tournament](https://osu.ppy.sh/community/forums/topics/775442), the following spreadsheets will be 
+After running the program for [this tournament](https://osu.ppy.sh/community/forums/topics/775442), the following spreadsheets <br/>will be 
 created to the user's Google account (currently works for only my Google account). 
 
 **Overview & Top Scores**: https://bit.ly/2SX7298
