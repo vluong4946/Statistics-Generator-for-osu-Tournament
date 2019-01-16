@@ -7,6 +7,7 @@ The project is nearing completion; see Todo section.
 
 ### Requirements
 `pip install --upgrade google-api-python-client oauth2client`
+
 ...
 
 ### How to run the program
