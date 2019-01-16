@@ -13,7 +13,8 @@ The project is nearing completion; see Todo section.
 ...
 
 ### Example of Output
-After running the program for [this tournament](https://osu.ppy.sh/community/forums/topics/775442), the following spreadsheets will be created to the user's Google account (currently works for only my Google account). <br/>
+After running the program for [this tournament](https://osu.ppy.sh/community/forums/topics/775442), the following spreadsheets will be created to the user's Google account (currently works for only my Google account). 
+
 **Overview & Top Scores**: https://bit.ly/2SX7298 <br/>
 **Leaderboards**: <br/>
  - Group Stage: https://bit.ly/2RJDdvs
