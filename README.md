@@ -5,6 +5,10 @@ The goal is to give additional insight and data for tournament hosts and an addi
 
 The project is nearing completion; see Todo section. 
 
+### Requirements
+`pip install --upgrade google-api-python-client oauth2client`
+...
+
 ### How to run the program
 ...
 
