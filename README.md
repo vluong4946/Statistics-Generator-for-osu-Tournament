@@ -28,4 +28,3 @@ After running the program for [this tournament](https://osu.ppy.sh/community/for
 * Adapt for public use
 * Lower the amount of necessary starting spreadsheets
 * Small optimizations
-* Styling code
